@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://SalehHammudeh989.github.io/ru/blog/</link>
+      <atom:link href="https://SalehHammudeh989.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SalehHammudeh989.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://SalehHammudeh989.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://SalehHammudeh989.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете была продуктивной и интересной. Учёба постепенно становится всё более насыщенной: появляются новые темы, больше практики и больше понимания того, как работают современные технологии.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я продолжила изучать основы разработки программ и лучше поняла структуру кода и работу алгоритмов.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы рассматривали способы эффективного решения задач и анализировали разные подходы к программированию.&lt;/li&gt;
+&lt;li&gt;🗄️ На практике по &lt;strong&gt;базам данных&lt;/strong&gt; познакомилась с основами SQL и принципами хранения и обработки информации.&lt;/li&gt;
+&lt;li&gt;📚 Дополнительно изучала материалы по &lt;strong&gt;искусственному интеллекту и машинному обучению&lt;/strong&gt;, чтобы лучше понять перспективные направления в IT.&lt;/li&gt;
+&lt;li&gt;🤝 Работала над учебными заданиями и обсуждала решения с одногруппниками — совместная работа помогает быстрее разобраться в сложных темах.&lt;/li&gt;
+&lt;li&gt;🌿 Постаралась уделить время отдыху, прогулкам и восстановлению сил после учебных дней.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя приносит новые знания и помогает постепенно формировать навыки будущего специалиста в области компьютерных наук. Учёба требует усилий, но одновременно открывает много возможностей для развития и профессионального роста.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
