@@ -5,12 +5,32 @@
     <link>https://SalehHammudeh989.github.io/ru/blog/</link>
       <atom:link href="https://SalehHammudeh989.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://SalehHammudeh989.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://SalehHammudeh989.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://SalehHammudeh989.github.io/ru/blog/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Прошедшая неделя оказалась насыщенной и позволила углубиться в ключевые темы обучения. Постепенно становится заметно, как теоретические знания начинают складываться в целостную картину.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я закрепила навыки написания кода и лучше разобралась в логике построения программ.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы изучали более сложные структуры и анализировали их эффективность.&lt;/li&gt;
+&lt;li&gt;🗄️ На практике по &lt;strong&gt;базам данных&lt;/strong&gt; продолжила работать с SQL-запросами и научилась извлекать нужную информацию из таблиц.&lt;/li&gt;
+&lt;li&gt;📚 Уделила время самостоятельному изучению тем по &lt;strong&gt;искусственному интеллекту&lt;/strong&gt;, чтобы расширить понимание современных технологий.&lt;/li&gt;
+&lt;li&gt;🤝 Выполняла задания вместе с одногруппниками — обсуждение решений помогает увидеть разные подходы к одной задаче.&lt;/li&gt;
+&lt;li&gt;🌿 Нашла баланс между учёбой и отдыхом, чтобы сохранять продуктивность и не перегружаться.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;С каждой неделей становится яснее, насколько важно системное мышление и практика. Учёба требует дисциплины, но даёт уверенность в выбранном направлении.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
