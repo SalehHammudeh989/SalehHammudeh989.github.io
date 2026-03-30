@@ -5,12 +5,32 @@
     <link>https://SalehHammudeh989.github.io/ru/blog/</link>
       <atom:link href="https://SalehHammudeh989.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://SalehHammudeh989.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://SalehHammudeh989.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://SalehHammudeh989.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя продолжила развивать мои навыки и помогла лучше структурировать полученные знания. Всё больше ощущается уверенность в работе с материалом и понимание ключевых концепций.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &amp;ndash;программированию&amp;ndash; я практиковалась в написании более сложных программ и стала быстрее находить ошибки в коде.&lt;/li&gt;
+&lt;li&gt;🧠 В рамках курса по &amp;ndash;алгоритмам и структурам данных&amp;ndash; мы разбирали алгоритмы сортировки и их применение в реальных задачах.&lt;/li&gt;
+&lt;li&gt;🗄️ На практике по &amp;ndash;базам данных&amp;ndash; углубилась в работу с объединением таблиц и оптимизацией запросов.&lt;/li&gt;
+&lt;li&gt;📚 Самостоятельно изучала дополнительные материалы по &amp;ndash;искусственному интеллекту&amp;ndash;, уделяя внимание основам машинного обучения.&lt;/li&gt;
+&lt;li&gt;🤝 Совместная работа с одногруппниками помогла лучше понять сложные темы и обменяться полезными идеями.&lt;/li&gt;
+&lt;li&gt;🌿 Старалась поддерживать баланс между учебной нагрузкой и отдыхом, чтобы сохранять концентрацию и энергию.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя показала, что регулярная практика и повторение играют ключевую роль в обучении. Постепенно формируется системное понимание дисциплины и уверенность в своих силах.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
