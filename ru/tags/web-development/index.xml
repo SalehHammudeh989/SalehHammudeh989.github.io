@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development | </title>
+    <link>https://SalehHammudeh989.github.io/ru/tags/web-development/</link>
+      <atom:link href="https://SalehHammudeh989.github.io/ru/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Development</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SalehHammudeh989.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Web Development</title>
+      <link>https://SalehHammudeh989.github.io/ru/tags/web-development/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://SalehHammudeh989.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с созданием персонального сайта научного работника с помощью Hugo и темы Hugo Academic. Этот инструмент оказался удобным и функциональным для представления научной деятельности в интернете.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Hugo — это генератор статических сайтов, который позволяет быстро создавать современные веб-страницы без необходимости писать сложный серверный код.&lt;/li&gt;
+&lt;li&gt;🎓 Тема Hugo Academic (также известная как Wowchemy) специально разработана для учёных, преподавателей и студентов.&lt;/li&gt;
+&lt;li&gt;🧩 В процессе работы я настроила структуру сайта: добавила информацию о себе, список публикаций, проекты и достижения.&lt;/li&gt;
+&lt;li&gt;📄 Особое внимание уделила разделу с научными работами, где можно удобно размещать статьи, доклады и ссылки на исследования.&lt;/li&gt;
+&lt;li&gt;⚙️ Я изучила работу с конфигурационными файлами и Markdown-разметкой, что позволило гибко управлять содержимым сайта.&lt;/li&gt;
+&lt;li&gt;🚀 Публикация сайта прошла с использованием GitHub Pages, что сделало его доступным онлайн без дополнительных затрат.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с Hugo Academic показала, что создание профессионального академического сайта может быть достаточно простым и быстрым процессом при использовании современных инструментов.&lt;/p&gt;
+&lt;p&gt;Теперь у меня есть удобная платформа для представления своих достижений, проектов и научных интересов.&lt;/p&gt;
+&lt;p&gt;А вы уже пробовали создавать собственный сайт-портфолио? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

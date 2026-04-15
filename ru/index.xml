@@ -190,6 +190,47 @@
     </item>
     
     <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://SalehHammudeh989.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с созданием персонального сайта научного работника с помощью Hugo и темы Hugo Academic. Этот инструмент оказался удобным и функциональным для представления научной деятельности в интернете.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Hugo — это генератор статических сайтов, который позволяет быстро создавать современные веб-страницы без необходимости писать сложный серверный код.&lt;/li&gt;
+&lt;li&gt;🎓 Тема Hugo Academic (также известная как Wowchemy) специально разработана для учёных, преподавателей и студентов.&lt;/li&gt;
+&lt;li&gt;🧩 В процессе работы я настроила структуру сайта: добавила информацию о себе, список публикаций, проекты и достижения.&lt;/li&gt;
+&lt;li&gt;📄 Особое внимание уделила разделу с научными работами, где можно удобно размещать статьи, доклады и ссылки на исследования.&lt;/li&gt;
+&lt;li&gt;⚙️ Я изучила работу с конфигурационными файлами и Markdown-разметкой, что позволило гибко управлять содержимым сайта.&lt;/li&gt;
+&lt;li&gt;🚀 Публикация сайта прошла с использованием GitHub Pages, что сделало его доступным онлайн без дополнительных затрат.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с Hugo Academic показала, что создание профессионального академического сайта может быть достаточно простым и быстрым процессом при использовании современных инструментов.&lt;/p&gt;
+&lt;p&gt;Теперь у меня есть удобная платформа для представления своих достижений, проектов и научных интересов.&lt;/p&gt;
+&lt;p&gt;А вы уже пробовали создавать собственный сайт-портфолио? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://SalehHammudeh989.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;На этой неделе я уделила внимание изучению языков, которые активно используются в научной и исследовательской деятельности. Это направление оказалось особенно интересным, так как объединяет программирование, математику и анализ данных.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Один из самых популярных языков — Python. Он широко применяется благодаря простоте синтаксиса и большому количеству библиотек для анализа данных, таких как NumPy, pandas и matplotlib.&lt;/li&gt;
+&lt;li&gt;📊 Язык R используется преимущественно для статистических вычислений и визуализации данных. Он особенно популярен среди исследователей и аналитиков.&lt;/li&gt;
+&lt;li&gt;⚙️ MATLAB активно применяется в инженерии и математическом моделировании, предлагая удобные инструменты для работы с матрицами и численными методами.&lt;/li&gt;
+&lt;li&gt;🔢 Julia — относительно новый язык, который сочетает высокую производительность с удобством написания кода, что делает его перспективным в научных расчётах.&lt;/li&gt;
+&lt;li&gt;🧮 Классические языки, такие как Fortran и C++, до сих пор используются в высокопроизводительных вычислениях благодаря своей скорости.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение этих языков показало, что выбор инструмента зависит от конкретной задачи: анализа данных, моделирования или высокопроизводительных вычислений.&lt;/p&gt;
+&lt;p&gt;Понимание различий между ними помогает более осознанно подходить к решению научных задач и выбирать наиболее эффективные методы работы.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы для работы или учёбы? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя учебная неделя</title>
       <link>https://SalehHammudeh989.github.io/ru/blog/03/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
@@ -785,30 +826,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://SalehHammudeh989.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://SalehHammudeh989.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://SalehHammudeh989.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://SalehHammudeh989.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://SalehHammudeh989.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://SalehHammudeh989.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1985,6 +2002,45 @@ Navigate down for sub-topics!&lt;/p&gt;
 !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want to contribute?&lt;/strong&gt; Hugo Blox is open source! 
 .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://SalehHammudeh989.github.io/ru/blog/04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SalehHammudeh989.github.io/ru/blog/04/</guid>
+      <description>&lt;p&gt;Вот пост по тому же примеру, с датой через неделю:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;title: Моя учебная неделя
+summary: Итоги недели студентки направления «Компьютерные науки»
+date: 2026-03-28&lt;/p&gt;
+&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: 
+&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;li&gt;Student Life&lt;/li&gt;
+&lt;li&gt;Computer Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя стала ещё одним шагом вперёд в освоении профессиональных навыков и закреплении уже изученного материала. Я заметила, что стала быстрее ориентироваться в новых темах и увереннее применять знания на практике.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &amp;ndash;программированию&amp;ndash; я сосредоточилась на работе с функциями и структурированием кода, что сделало мои решения более понятными и эффективными.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &amp;ndash;алгоритмам и структурам данных&amp;ndash; изучали поиск и его оптимизацию, а также сравнивали разные подходы к решению задач.&lt;/li&gt;
+&lt;li&gt;🗄️ На практике по &amp;ndash;базам данных&amp;ndash; работала с вложенными запросами и начала лучше понимать, как строится логика сложных выборок.&lt;/li&gt;
+&lt;li&gt;📚 Самостоятельно продолжила изучение &amp;ndash;искусственного интеллекта&amp;ndash;, познакомившись с базовыми моделями и принципами обучения.&lt;/li&gt;
+&lt;li&gt;🤝 Работа в группе позволила обсудить трудные моменты и найти более простые способы решения задач.&lt;/li&gt;
+&lt;li&gt;🌿 Старалась грамотно распределять время между учёбой и отдыхом, чтобы поддерживать продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эта неделя показала, что постепенное углубление в материал и практика помогают выстроить прочную базу знаний. С каждым днём становится легче воспринимать сложные темы и применять их на практике.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
 </description>
     </item>
     
